@@ -1,3 +1,4 @@
+![output](https://github.com/vipashaaV321/WeatherApp-React/blob/master/Screenshot%20(866).png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -3,7 +3,7 @@ import './App.css';
 import './index.css';
 import w1 from './assets/w1.jpg'
 const api={
-  key:"97f835a9c36592e2aa1d6248c355a8d8",
+  key:"you api key",
   base:"https://api.openweathermap.org/data/2.5/"
 }
 function App() {
